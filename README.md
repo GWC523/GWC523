@@ -1,4 +1,5 @@
-![Hi I am Gwyneth, a full stack software engineer.] (https://drive.google.com/file/d/1WCi2La8baUUxRgh6Dnw4E2sifs3GUwK0/view?usp=sharing "This is a bio image")
+![Hi I am Gwyneth, a full stack software engineer.] (![image](https://github.com/GWC523/GWC523/assets/56357171/dbddf49f-15ee-4e65-adb5-3e447f91eb67)
+ "This is a bio image")
 
 <!--
 **GWC523/GWC523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
